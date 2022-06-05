@@ -1,0 +1,24 @@
+2022-04-19 16:57:29.478 -04:00 [INF] Updating cache...
+2022-04-19 16:57:29.664 -04:00 [INF] Getting content from API...
+2022-04-19 16:57:30.620 -04:00 [DBG] CreamDllService: Initialize begin
+2022-04-19 16:57:31.203 -04:00 [INF] Writing md5sum file...
+2022-04-19 16:57:31.247 -04:00 [DBG] CreamDllService: Initialize end
+2022-04-19 16:57:32.493 -04:00 [INF] Got content from API successfully. Writing to file...
+2022-04-19 16:57:34.911 -04:00 [INF] Cache written to file successfully.
+2022-04-19 16:57:36.102 -04:00 [INF] Loaded cache into memory!
+2022-04-19 16:57:36.292 -04:00 [DBG] ListOfDLcToStringConverter: Convert
+2022-04-19 16:58:15.009 -04:00 [INF] Config file does not exist @ C:\Program Files (x86)\Galactic Cafe\The Stanley Parable\bin\win64\cream_api.ini, skipping...
+2022-04-19 16:58:15.014 -04:00 [DBG] ListOfDLcToStringConverter: Convert
+2022-04-19 16:58:15.016 -04:00 [INF] x64 SteamAPI DLL found: C:\Program Files (x86)\Galactic Cafe\The Stanley Parable\bin\win64\steam_api64.dll
+2022-04-19 16:58:15.025 -04:00 [WRN] Empty game name, cannot initiate search!
+2022-04-19 16:58:29.836 -04:00 [INF] Trying to get app the stanley 
+2022-04-19 16:58:37.010 -04:00 [INF] Successfully got app 221910=The Stanley Parable
+2022-04-19 16:58:37.059 -04:00 [INF] Trying to get app with ID 221910
+2022-04-19 16:58:37.072 -04:00 [INF] Successfully got app 221910=The Stanley Parable
+2022-04-19 16:58:44.236 -04:00 [DBG] Start: GetListOfDlc
+2022-04-19 16:58:45.965 -04:00 [DBG] Type for Steam App The Stanley Parable: "game"
+2022-04-19 16:58:45.965 -04:00 [INF] Got DLC successfully...
+2022-04-19 16:58:45.966 -04:00 [INF] Get SteamDB App
+2022-04-19 16:58:46.289 -04:00 [DBG] RanToCompletion
+2022-04-19 16:58:46.294 -04:00 [ERR] Could not get DLC!
+2022-04-19 16:58:46.659 -04:00 [DBG] ListOfDLcToStringConverter: Convert

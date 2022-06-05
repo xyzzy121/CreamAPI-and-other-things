@@ -1,0 +1,5 @@
+nonlog_build\steam_api.dll ---> https://www.virustotal.com/gui/file/a34e7ef464373898fa659294eef80ab554417c8ae6fef860f03fb7f5ae6bb698/detection (1/69)
+nonlog_build\steam_api64.dll -> https://www.virustotal.com/gui/file/f428bfe07eaf1e6f6fa1f28b6a787f93794bc5f97e8609645571b8bdc10d5385/detection (0/68)
+
+log_build\steam_api.dll ---> https://www.virustotal.com/gui/file/178d6b516451a8de04fa82090324c058d121471d34310d80c82658908e6baeca/detection (2/69)
+log_build\steam_api64.dll -> https://www.virustotal.com/gui/file/298efd067e2de7fb5a54e8325d08145fa4fbb637188a454789482388b2375e1f/detection (0/70)
